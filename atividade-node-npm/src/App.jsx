@@ -31,7 +31,7 @@ function App() {
 
       <div className="container">
         {/* INTRO */}
-        <div className="intro">
+        <div className="intro"> 
           <h2>Como funciona?</h2>
           <p>Este projeto usa <code>React + Vite</code>. Cada exercicio pede que voce instale um pacote NPM e use dentro de um componente.</p>
           <pre>{`npm install           # instala dependencias
